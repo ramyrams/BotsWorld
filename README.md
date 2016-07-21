@@ -5,5 +5,7 @@
 * [An Introduction to the Microsoft Bot Framework](http://www.codeproject.com/Articles/1106457/An-Introduction-to-the-Microsoft-Bot-Framework)
 * [Creating A Facebook Bot Using Microsoft Bot Framework](http://www.codeproject.com/Articles/1110201/Creating-A-Facebook-Bot-Using-Microsoft-Bot-Framew)
 * [New Alexa Skills Kit Template: Step-by-Step Guide to Build a Fact Skill](https://developer.amazon.com/public/community/post/Tx3DVGG0K0TPUGQ/New-Alexa-Skills-Kit-Template:-Step-by-Step-Guide-to-Build-a-Fact-Skill?)
+[It’s now a little easier to find chatbots to talk to on Skype for iOS](http://venturebeat.com/2016/07/20/its-now-a-little-easier-to-find-chatbots-to-talk-to-on-skype-for-ios/)
+
 
 
