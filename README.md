@@ -9,3 +9,5 @@
 
 
 
+* [An introduction to the Microsoft Bot Framework](https://www.microsoft.com/en-gb/developers/articles/week05july16/an-introduction-to-the-microsoft-bot-framework/)
+
