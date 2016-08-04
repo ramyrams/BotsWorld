@@ -8,6 +8,17 @@
 [It’s now a little easier to find chatbots to talk to on Skype for iOS](http://venturebeat.com/2016/07/20/its-now-a-little-easier-to-find-chatbots-to-talk-to-on-skype-for-ios/)
 
 
+* [Bot Framework](https://docs.botframework.com/en-us/)
+* [Make your Skype Bot in .NET](http://www.codeproject.com/Articles/37909/Make-your-Skype-Bot-in-NET)
+* [What is Microsoft Bot Framework Overview](https://blogs.msdn.microsoft.com/uk_faculty_connection/2016/04/05/what-is-microsoft-bot-framework-overview/)
+* [Bot Builder SDK](https://github.com/Microsoft/BotBuilder)
+* [Building a Conversational Bot: From 0 to 60](https://www.youtube.com/watch?v=spj9YOsKKXc)
+* [Creating a phone number lookup bot using Microsoft Bot Framework and C#](https://www.twilio.com/blog/2016/05/creating-a-phone-number-lookup-bot-using-microsoft-bot-framework-and-c.html)
+* [A node framework for Facebook Messenger Platform](https://www.npmjs.com/package/fb-bot-framework)
+* [Using the Microsoft Bot Framework to Build Kik Bots](https://blog.kik.com/2016/05/18/using-microsoft-bot-framework-build-kik-bots/)
+* [Simple Intelligent Bot using Microsoft Bot Framework & Cognitive Services](http://www.dotnetcurry.com/csharp/1281/simple-bot-using-microsoft-bot-framework-cognitive-services)
+* [Creating A Simple Bot Application Using Microsoft Bot Framework](http://www.c-sharpcorner.com/article/creating-a-simple-bot-application-using-microsoft-bot-framew/)
+* [Bot Code Examples](https://core.telegram.org/bots/samples)
 
 * [An introduction to the Microsoft Bot Framework](https://www.microsoft.com/en-gb/developers/articles/week05july16/an-introduction-to-the-microsoft-bot-framework/)
 
