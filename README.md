@@ -7,6 +7,9 @@
 * [New Alexa Skills Kit Template: Step-by-Step Guide to Build a Fact Skill](https://developer.amazon.com/public/community/post/Tx3DVGG0K0TPUGQ/New-Alexa-Skills-Kit-Template:-Step-by-Step-Guide-to-Build-a-Fact-Skill?)
 [It’s now a little easier to find chatbots to talk to on Skype for iOS](http://venturebeat.com/2016/07/20/its-now-a-little-easier-to-find-chatbots-to-talk-to-on-skype-for-ios/)
 
+* [Introduction To Using Dialogs With The Microsoft Bot Framework](http://aihelpwebsite.com/Blog/EntryId/9/Introduction-To-Using-Dialogs-With-The-Microsoft-Bot-Framework)
+* [Creating a Skype Bot Using The Microsoft Bot Framework](http://aihelpwebsite.com/Blog/EntryId/10/Creating-a-Skype-Bot-Using-The-Microsoft-Bot-Framework)
+
 
 * [Bot Framework](https://docs.botframework.com/en-us/)
 * [Make your Skype Bot in .NET](http://www.codeproject.com/Articles/37909/Make-your-Skype-Bot-in-NET)
