@@ -6,11 +6,10 @@
 * [Creating A Facebook Bot Using Microsoft Bot Framework](http://www.codeproject.com/Articles/1110201/Creating-A-Facebook-Bot-Using-Microsoft-Bot-Framew)
 * [New Alexa Skills Kit Template: Step-by-Step Guide to Build a Fact Skill](https://developer.amazon.com/public/community/post/Tx3DVGG0K0TPUGQ/New-Alexa-Skills-Kit-Template:-Step-by-Step-Guide-to-Build-a-Fact-Skill?)
 [It’s now a little easier to find chatbots to talk to on Skype for iOS](http://venturebeat.com/2016/07/20/its-now-a-little-easier-to-find-chatbots-to-talk-to-on-skype-for-ios/)
-
+* [Evolution of Microsoft Bot Framework](http://www.codeproject.com/Articles/1120056/Evolution-of-Microsoft-Bot-Framework)
+* [Alexa Skills Kit SDK for Node.js](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs)
 * [Introduction To Using Dialogs With The Microsoft Bot Framework](http://aihelpwebsite.com/Blog/EntryId/9/Introduction-To-Using-Dialogs-With-The-Microsoft-Bot-Framework)
 * [Creating a Skype Bot Using The Microsoft Bot Framework](http://aihelpwebsite.com/Blog/EntryId/10/Creating-a-Skype-Bot-Using-The-Microsoft-Bot-Framework)
-
-
 * [Bot Framework](https://docs.botframework.com/en-us/)
 * [Make your Skype Bot in .NET](http://www.codeproject.com/Articles/37909/Make-your-Skype-Bot-in-NET)
 * [What is Microsoft Bot Framework Overview](https://blogs.msdn.microsoft.com/uk_faculty_connection/2016/04/05/what-is-microsoft-bot-framework-overview/)
@@ -22,8 +21,6 @@
 * [Simple Intelligent Bot using Microsoft Bot Framework & Cognitive Services](http://www.dotnetcurry.com/csharp/1281/simple-bot-using-microsoft-bot-framework-cognitive-services)
 * [Creating A Simple Bot Application Using Microsoft Bot Framework](http://www.c-sharpcorner.com/article/creating-a-simple-bot-application-using-microsoft-bot-framew/)
 * [Bot Code Examples](https://core.telegram.org/bots/samples)
-
 * [An introduction to the Microsoft Bot Framework](https://www.microsoft.com/en-gb/developers/articles/week05july16/an-introduction-to-the-microsoft-bot-framework/)
-
 * [12+ Frameworks to Build ChatOps Bots](http://nordicapis.com/12-frameworks-to-build-chatops-bots/)
 
