@@ -25,4 +25,8 @@
 * [12+ Frameworks to Build ChatOps Bots](http://nordicapis.com/12-frameworks-to-build-chatops-bots/)
 * [Building Your First Bot using Microsoft Bot Framework](http://dailydotnettips.com/2016/09/07/building-your-first-bot-using-microsoft-bot-framework/)
 
+
+A Facebook Messenger Bot that supports Voice Recognition, Natural Language Processing 
+https://github.com/joshbuchea/FacebookBot
+
 * [Chatbots: Your Ultimate Prototyping Tool](https://medium.com/ideo-stories/chatbots-ultimate-prototyping-tool-e4e2831967f3#.7v20x754m)
