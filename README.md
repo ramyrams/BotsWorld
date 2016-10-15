@@ -26,6 +26,9 @@
 * [Building Your First Bot using Microsoft Bot Framework](http://dailydotnettips.com/2016/09/07/building-your-first-bot-using-microsoft-bot-framework/)
 
 
+https://chatbotsmagazine.com/
+
+
 Facebook Messenger UI Kit for Chatbots Sketch Resource
 http://www.sketchappsources.com/free-source/1952-facebook-messenger-ui-kit-chatbots-sketch-freebie-resource.html
 https://www.byng.co/thought/post/2016/06/13/slic-ui-hackathon
