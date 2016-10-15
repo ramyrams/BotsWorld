@@ -57,3 +57,9 @@ https://github.com/joshbuchea/FacebookBot
 ![1](https://www.enterpriseirregulars.com/wp-content/uploads/2016/04/dionhinchcliffe.files_.wordpress.com201604how_chatbots_could_help_community_managers-5be10be69218cfaaf98c6fbb7a3bd3abfe1697a5.png)
 ![1](https://dionhinchcliffe.files.wordpress.com/2016/04/anatomy_of_a_chatbot.png)
 ![1](http://unvired.com/wp-content/uploads/2016/07/UDEP_Arch.png)
+![1](https://qph.ec.quoracdn.net/main-qimg-f038e32c101831c41f21125637939600?convert_to_webp=true)
+![1](https://lh4.googleusercontent.com/UQb-pWRi93g_0L1Y6A-34jSbJIzmR97EJLVHVGvd-VWyLLYxHKKUKgmwHD5B_FYNgvjx7sHtrivsTg16sJDF0zcOJss_Idk0kwxcJdf1s-GIW7i6OEOC0IkrftZkna6-FAZ3ET03)
+
+
+
+
