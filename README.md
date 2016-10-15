@@ -1,5 +1,5 @@
 # BotsWorld
-
+* [Chatbot & Conversational UI : Start here!](https://medium.com/chat-bots-weekly/chatbot-conversational-ui-start-here-2f9250e8cde0#.8jhlgndjx)
 * [MS HEALTH BOT TUTORIAL](http://peted.azurewebsites.net/ms-health-bot-tutorial/)
 * [Building a Bot using C# and Debugging using Bot Framework Emulator](http://www.codeproject.com/Articles/1110794/Building-a-Bot-using-Csharp-and-Debugging-using-Bo)
 * [An Introduction to the Microsoft Bot Framework](http://www.codeproject.com/Articles/1106457/An-Introduction-to-the-Microsoft-Bot-Framework)
@@ -26,8 +26,14 @@
 * [Building Your First Bot using Microsoft Bot Framework](http://dailydotnettips.com/2016/09/07/building-your-first-bot-using-microsoft-bot-framework/)
 
 
-A Facebook Messenger Bot that supports Voice Recognition, Natural Language Processing 
-https://github.com/joshbuchea/FacebookBot
+Facebook Messenger UI Kit for Chatbots Sketch Resource
+http://www.sketchappsources.com/free-source/1952-facebook-messenger-ui-kit-chatbots-sketch-freebie-resource.html
+https://www.byng.co/thought/post/2016/06/13/slic-ui-hackathon
+
+
+* [A Facebook Messenger Bot that supports Voice Recognition, Natural Language Processing](https://github.com/joshbuchea/FacebookBot)
+* [A ChatBot for C#](https://github.com/qxsch/ChatBot)
+
 
 * [Chatbots: Your Ultimate Prototyping Tool](https://medium.com/ideo-stories/chatbots-ultimate-prototyping-tool-e4e2831967f3#.7v20x754m)
 
