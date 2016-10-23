@@ -43,8 +43,7 @@ https://www.byng.co/thought/post/2016/06/13/slic-ui-hackathon
 
 * [Chatbots: Your Ultimate Prototyping Tool](https://medium.com/ideo-stories/chatbots-ultimate-prototyping-tool-e4e2831967f3#.7v20x754m)
 
-
-
+* [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/?utm_source=codropscollective)
 
 ![1](http://www.brandchannel.com/wp-content/uploads/2016/04/spring-bot-600.jpg)
 ![1](http://danielschristian.com/learning-ecosystems/wp-content/uploads/2016/06/Bots-ChatbotMagazine-June2016.jpg)
