@@ -73,4 +73,12 @@ https://www.byng.co/thought/post/2016/06/13/slic-ui-hackathon
 
 
 
+# Chatbot UX
+https://www.ibm.com/developerworks/library/cc-cognitive-chatbot-conversational-design/
+http://www.topbots.com/common-chatbot-ux-mistakes-in-bot-design/
+https://www.fastcodesign.com/3054934/the-next-phase-of-ux-designing-chatbot-personalities
+https://blog.intercom.com/principles-bot-design/
+https://designmodo.com/chatbots-design/
+http://designrfix.com/design/key-principles-chatbot-design
+
 
