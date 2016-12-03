@@ -1,6 +1,7 @@
 # BotsWorld
 * [How to Build Your First Bot for Messenger: 6 Key Steps](https://dzone.com/articles/how-to-build-your-first-bot-for-messenger-6-key-st)
 
+* [Developer's Introduction To Chatbots](http://tutorialzine.com/2016/11/introduction-to-chatbots/)
 
 * [Chatbot & Conversational UI : Start here!](https://medium.com/chat-bots-weekly/chatbot-conversational-ui-start-here-2f9250e8cde0#.8jhlgndjx)
 * [MS HEALTH BOT TUTORIAL](http://peted.azurewebsites.net/ms-health-bot-tutorial/)
