@@ -24,6 +24,9 @@
 * [Using the Microsoft Bot Framework to Build Kik Bots](https://blog.kik.com/2016/05/18/using-microsoft-bot-framework-build-kik-bots/)
 * [Simple Intelligent Bot using Microsoft Bot Framework & Cognitive Services](http://www.dotnetcurry.com/csharp/1281/simple-bot-using-microsoft-bot-framework-cognitive-services)
 * [Creating A Simple Bot Application Using Microsoft Bot Framework](http://www.c-sharpcorner.com/article/creating-a-simple-bot-application-using-microsoft-bot-framew/)
+
+https://channel9.msdn.com/Series/DevOps-for-the-Bot-Framework/Telemetry-for-the-Bot-Framework
+
 * [Bot Code Examples](https://core.telegram.org/bots/samples)
 * [An introduction to the Microsoft Bot Framework](https://www.microsoft.com/en-gb/developers/articles/week05july16/an-introduction-to-the-microsoft-bot-framework/)
 * [12+ Frameworks to Build ChatOps Bots](http://nordicapis.com/12-frameworks-to-build-chatops-bots/)
