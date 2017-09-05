@@ -3,6 +3,10 @@
 
 https://kore.ai/smart-bots/banking/
 https://kore.ai/chatbot-platform-competitive-comparison/
+https://kore.ai/kore-ai-chatbot-ai-glossary/
+https://kore.ai/bots-platform/
+https://kore.ai/smart-bots/banking/
+
 https://chatbotsmagazine.com/
 https://blog.exponea.com/full-guide-chatbot-use-cases-brands/
 * [Developer's Introduction To Chatbots](http://tutorialzine.com/2016/11/introduction-to-chatbots/)
