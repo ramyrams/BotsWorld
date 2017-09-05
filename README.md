@@ -1,6 +1,8 @@
 # BotsWorld
 * [How to Build Your First Bot for Messenger: 6 Key Steps](https://dzone.com/articles/how-to-build-your-first-bot-for-messenger-6-key-st)
 
+https://chatbotsmagazine.com/
+
 * [Developer's Introduction To Chatbots](http://tutorialzine.com/2016/11/introduction-to-chatbots/)
 
 * [Chatbot & Conversational UI : Start here!](https://medium.com/chat-bots-weekly/chatbot-conversational-ui-start-here-2f9250e8cde0#.8jhlgndjx)
@@ -44,7 +46,7 @@ https://www.byng.co/thought/post/2016/06/13/slic-ui-hackathon
 * [A Facebook Messenger Bot that supports Voice Recognition, Natural Language Processing](https://github.com/joshbuchea/FacebookBot)
 * [A ChatBot for C#](https://github.com/qxsch/ChatBot)
 
-
+https://www.accenture.com/t00010101T000000__w__/br-pt/_acnmedia/PDF-45/Accenture-Chatbots-Customer-Service.pdf
 * [Chatbots: Your Ultimate Prototyping Tool](https://medium.com/ideo-stories/chatbots-ultimate-prototyping-tool-e4e2831967f3#.7v20x754m)
 
 * [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/?utm_source=codropscollective)
