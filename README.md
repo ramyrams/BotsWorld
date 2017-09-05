@@ -52,7 +52,7 @@ https://www.accenture.com/t00010101T000000__w__/br-pt/_acnmedia/PDF-45/Accenture
 * [Chatbots: Your Ultimate Prototyping Tool](https://medium.com/ideo-stories/chatbots-ultimate-prototyping-tool-e4e2831967f3#.7v20x754m)
 
 * [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/?utm_source=codropscollective)
-
+![1](https://korezone-kore.netdna-ssl.com/wp-content/uploads/2017/03/Kore.aiArchitecture.png)
 ![1](http://www.brandchannel.com/wp-content/uploads/2016/04/spring-bot-600.jpg)
 ![1](http://danielschristian.com/learning-ecosystems/wp-content/uploads/2016/06/Bots-ChatbotMagazine-June2016.jpg)
 ![1](http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2016/06/chrisbot-930x615.png)
