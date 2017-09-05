@@ -1,6 +1,8 @@
 # BotsWorld
 * [How to Build Your First Bot for Messenger: 6 Key Steps](https://dzone.com/articles/how-to-build-your-first-bot-for-messenger-6-key-st)
 
+https://kore.ai/smart-bots/banking/
+
 https://chatbotsmagazine.com/
 https://blog.exponea.com/full-guide-chatbot-use-cases-brands/
 * [Developer's Introduction To Chatbots](http://tutorialzine.com/2016/11/introduction-to-chatbots/)
