@@ -6,6 +6,7 @@ https://kore.ai/chatbot-platform-competitive-comparison/
 https://kore.ai/kore-ai-chatbot-ai-glossary/
 https://kore.ai/bots-platform/
 https://kore.ai/smart-bots/banking/
+https://kore.ai/kore-ai-chatbot-ai-glossary/
 
 https://chatbotsmagazine.com/
 https://blog.exponea.com/full-guide-chatbot-use-cases-brands/
