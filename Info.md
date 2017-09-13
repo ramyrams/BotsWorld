@@ -21,3 +21,9 @@ Bot Analytics — The Case For Third Party Tools - https://chatbotsmagazine.
 The 7 Things Everyone Needs To Know About Chatbots - https://chatbotsmagazine.com/the-7-things-everyone-needs-to-know-about-chatbots-1f8e883210e9
 
 
+https://www.netsolutions.com/bots/assets/images/chatbot-process.svg
+
+https://image.slidesharecdn.com/codemotion-roma-ondrisek-170327150526/95/insights-into-chatbot-development-implementing-crossplatform-chatbots-25-638.jpg?cb=1490627179
+https://image.slidesharecdn.com/codemotion-roma-ondrisek-170327150526/95/insights-into-chatbot-development-implementing-crossplatform-chatbots-25-638.jpg?cb=1490627179
+https://image.slidesharecdn.com/codemotion-roma-ondrisek-170327150526/95/insights-into-chatbot-development-implementing-crossplatform-chatbots-26-638.jpg?cb=1490627179
+https://image.slidesharecdn.com/codemotion-roma-ondrisek-170327150526/95/insights-into-chatbot-development-implementing-crossplatform-chatbots-36-638.jpg?cb=1490627179
