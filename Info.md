@@ -5,6 +5,8 @@ https://cdn-images-1.medium.com/max/2000/1*eNYl6B0L39uGiJD-ltNfQw.png
 https://kore.ai/enterprise-chatbot-platform-checklist/
 
 
+https://www.indianweb2.com/2017/07/21/top-12-companies-offering-state-art-chatbot-development/
+
 Design Framework for Chatbots - https://chatbotsmagazine.com/design-framework-for-chatbots-aa27060c4ea3
 
 
