@@ -1,5 +1,7 @@
 What is conversational AI?
 
+https://github.com/AdrianKrebs/chatbot-university
+
 http://www.avaamo.com/wp-content/uploads/2016/08/smartbot@2x.gif
 http://www.avaamo.com/wp-content/uploads/2016/08/smartbot@2x.gif
 http://www.avaamo.com/wp-content/uploads/2016/08/smartbot@2x.gif
