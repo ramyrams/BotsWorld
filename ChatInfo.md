@@ -2,6 +2,7 @@ What is conversational AI?
 
 https://github.com/AdrianKrebs/chatbot-university
 
+https://blog.ubisend.com/hubfs/img/blog/layers_of_AI_chatbots_that_learn.png
 http://www.avaamo.com/wp-content/uploads/2016/08/smartbot@2x.gif
 http://www.avaamo.com/wp-content/uploads/2016/08/smartbot@2x.gif
 http://www.avaamo.com/wp-content/uploads/2016/08/smartbot@2x.gif
