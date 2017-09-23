@@ -1,4 +1,4 @@
-![1](https://3.bp.blogspot.com/-zALq_oMZ8fo/WDHu5QNIBPI/AAAAAAAACM0/6k4Twr1iyUYKD3Du70e7vvZ-5bcGR-PJgCLcB/s1600/image004.png
+![1](https://3.bp.blogspot.com/-zALq_oMZ8fo/WDHu5QNIBPI/AAAAAAAACM0/6k4Twr1iyUYKD3Du70e7vvZ-5bcGR-PJgCLcB/s1600/image004.png)
 ![1](https://blog.zipfworks.com/content/images/2016/06/Screen-Shot-2016-06-01-at-2-18-40-PM.png)
 ![1](https://cdn-images-1.medium.com/max/1600/1*zdnOG6wEyeVHe1fbVIOfaQ.png)
 ![1](https://www.crowdflower.com/wp-content/uploads/2016/06/image00-1.jpg)
@@ -31,12 +31,12 @@
 ![1](https://cdn-images-1.medium.com/max/1600/0*JrPQk5gW2PhHJMXn.)
 ![1](http://letzgro.net/wp-content/uploads/2016/07/cnn.jpg)
 ![1](https://alty.co/blog/wp-content/uploads/2016/12/hm-chatbot.jpg)
-![1](https://image.slidesharecdn.com/adiveintomicrosoftstrategyonmachinelearningchatbotandartificialintelligenceseokjinhanv20170329-17)0413133246/95/a-dive-into-microsoft-strategy-on-machine-learning-chat-bot-and-artificial-intelligence-by-seokjin-han-20170329-23-638.jpg?cb=1492090596
-http://2u2z7049uuw14vxtnojavqyo.wpengine.netdna-cdn.com/wp-content/uploads/2016/10/bot-combined-small-1080x675.png
-http://2u2z7049uuw14vxtnojavqyo.wpengine.netdna-cdn.com/wp-content/uploads/2016/10/Middleware.png
-http://2u2z7049uuw14vxtnojavqyo.wpengine.netdna-cdn.com/wp-content/uploads/2016/10/Intelligent-Assistance-landscape.jpg
-https://eilianyu.files.wordpress.com/2017/05/2017-05-15_2336.png?w=700
-https://atchai.com/images/blog-healthcare-chatbots-yourmd.jpeg
-http://blog.exponea.com/wp-content/uploads/2016/04/klm-1024x939.jpg
-http://banknxt.com/wp-content/uploads/2016/12/bankbot.jpg
-https://walkthechat.com/wp-content/uploads/2016/03/wechat-ai-1-1024x594.jpg
+![1](https://image.slidesharecdn.com/adiveintomicrosoftstrategyonmachinelearningchatbotandartificialintelligenceseokjinhanv20170329-170413133246/95/a-dive-into-microsoft-strategy-on-machine-learning-chat-bot-and-artificial-intelligence-by-seokjin-han-20170329-23-638.jpg?cb=1492090596)
+![1](http://2u2z7049uuw14vxtnojavqyo.wpengine.netdna-cdn.com/wp-content/uploads/2016/10/bot-combined-small-1080x675.png)
+![1](http://2u2z7049uuw14vxtnojavqyo.wpengine.netdna-cdn.com/wp-content/uploads/2016/10/Middleware.png)
+![1](http://2u2z7049uuw14vxtnojavqyo.wpengine.netdna-cdn.com/wp-content/uploads/2016/10/Intelligent-Assistance-landscape.jpg)
+![1](https://eilianyu.files.wordpress.com/2017/05/2017-05-15_2336.png?w=700)
+![1](https://atchai.com/images/blog-healthcare-chatbots-yourmd.jpeg)
+![1](http://blog.exponea.com/wp-content/uploads/2016/04/klm-1024x939.jpg)
+![1](http://banknxt.com/wp-content/uploads/2016/12/bankbot.jpg)
+![1](https://walkthechat.com/wp-content/uploads/2016/03/wechat-ai-1-1024x594.jpg)
