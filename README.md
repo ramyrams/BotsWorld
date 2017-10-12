@@ -3,7 +3,7 @@
 
 # Web Site
 https://chatbotslife.com
-
+chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca
 
 The reader will learn how to:
 1. Clarify business and brand goals for chatbots. Define an overall brand strategy and compelling persona to narrow the scope of your chatbot.
