@@ -5,6 +5,18 @@
 https://chatbotslife.com
 chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca
 
+# awesome-chatbots
+https://github.com/JStumpp/awesome-chatbots
+https://github.com/BotCube/awesome-bots
+https://github.com/shaohua/awesome-chatbot
+https://github.com/fendouai/Awesome-Chatbot
+https://github.com/technopreneurG/awesome-ChatBots
+
+https://icdn6.digitaltrends.com/image/5-healthtapconcierge-scheduleappointment-steps-e1413938751886-720x720.jpg
+
+https://arxiv.org/pdf/1506.05869v1.pdf
+
+
 The reader will learn how to:
 1. Clarify business and brand goals for chatbots. Define an overall brand strategy and compelling persona to narrow the scope of your chatbot.
 2. Understand which use cases suit conversational and messaging platforms and which are better left to websites, regular apps, or human staff.
