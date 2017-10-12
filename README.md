@@ -1,4 +1,28 @@
-# BotsWorld
+** # BotsWorld* * 
+
+The reader will learn how to:
+1. Clarify business and brand goals for chatbots. Define an overall brand strategy and compelling persona to narrow the scope of your chatbot.
+2. Understand which use cases suit conversational and messaging platforms and which are better left to websites, regular apps, or human staff.
+3. Bring a chatbot’s or brand’s personality to life through compelling writing, a rich backstory, social relevance, and rich visual assets.
+4. Write adaptive copy that works around current limitations of natural language processing and AI technologies.
+5. Utilize engagement techniques from oral communication traditions, storytelling, screenwriting, and rhetoric to create emotional and sticky user experiences.
+6. Design notifications and re-engagement efforts to be seamless and not spammy.
+7. Employ social and viral features of messaging platforms to improve the communal utility of chatbots and grow their user base.
+8. Combine open-ended input / output with the lightweight UI features in Messenger, iMessage, Kik, WeChat, and other messaging platforms to blend spatial, temporal, and conversational affordances.
+9. Optimize bot and messaging app design for brand equity, growth, and revenue.
+
+
+Here is a just preview of some the behind the scenes stories that you will learn:
+* How a famous rapper cloned himself into a bot to talk with millions of fans 24/7
+* How a telecommunications company saved millions in service costs by automating customer support with chatbots
+* How a simple chatbot created by a 3-person team grew to 600,000 users in less than 3 months
+* How an individual immortalized a friend who passed away by bringing him back as a chatbot
+* How an Italian fashion house created a bot to promote their latest spring women’s line
+* How a travel company increased bookings by 20% with a simple chatbot feature
+* How a non-profit used bots to improve education outcomes for 150,000 girls in Africa
+* How a transportation company improved customer service ratings and decreased response times by 15%
+* and Much, much more!
+
 * [How to Build Your First Bot for Messenger: 6 Key Steps](https://dzone.com/articles/how-to-build-your-first-bot-for-messenger-6-key-st)
 
 https://kore.ai/smart-bots/banking/
