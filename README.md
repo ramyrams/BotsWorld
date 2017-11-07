@@ -16,6 +16,7 @@ https://icdn6.digitaltrends.com/image/5-healthtapconcierge-scheduleappointment-s
 
 https://arxiv.org/pdf/1506.05869v1.pdf
 
+https://bot-framework.azureedge.net/videos/skype-hero-050517-sm.mp4
 
 The reader will learn how to:
 1. Clarify business and brand goals for chatbots. Define an overall brand strategy and compelling persona to narrow the scope of your chatbot.
