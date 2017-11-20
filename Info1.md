@@ -1,14 +1,4 @@
-http://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/39/2016/05/Ozlo-AI-assistant-630x400.jpg
 
-https://qph.ec.quoracdn.net/main-qimg-879f71c6951fecb9696b3a4eeadd9dfd.webp
-
-https://cdn-images-1.medium.com/max/2000/1*eNYl6B0L39uGiJD-ltNfQw.png
-https://qph.ec.quoracdn.net/main-qimg-89343fd10c7f2b8fadd47a411905dc0f.webp
-
-
-https://qph.ec.quoracdn.net/main-qimg-1c6dad39ded48040604dfd4a0acc488c.webp
-
-https://qph.ec.quoracdn.net/main-qimg-387970b9afa1aad96efb5c4312cca1fc.webp
 
 WHERE WILL THE CHATBOT LIVE?
 Your website
