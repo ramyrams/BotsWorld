@@ -1,6 +1,4 @@
-https://korezone-kore.netdna-ssl.com/wp-content/uploads/2017/03/Kore.aiArchitecture.png
 
-https://cdn-images-1.medium.com/max/2000/1*eNYl6B0L39uGiJD-ltNfQw.png
 
 https://kore.ai/enterprise-chatbot-platform-checklist/
 
@@ -23,9 +21,3 @@ Bot Analytics — The Case For Third Party Tools - https://chatbotsmagazine.
 The 7 Things Everyone Needs To Know About Chatbots - https://chatbotsmagazine.com/the-7-things-everyone-needs-to-know-about-chatbots-1f8e883210e9
 
 
-https://www.netsolutions.com/bots/assets/images/chatbot-process.svg
-
-https://image.slidesharecdn.com/codemotion-roma-ondrisek-170327150526/95/insights-into-chatbot-development-implementing-crossplatform-chatbots-25-638.jpg?cb=1490627179
-https://image.slidesharecdn.com/codemotion-roma-ondrisek-170327150526/95/insights-into-chatbot-development-implementing-crossplatform-chatbots-25-638.jpg?cb=1490627179
-https://image.slidesharecdn.com/codemotion-roma-ondrisek-170327150526/95/insights-into-chatbot-development-implementing-crossplatform-chatbots-26-638.jpg?cb=1490627179
-https://image.slidesharecdn.com/codemotion-roma-ondrisek-170327150526/95/insights-into-chatbot-development-implementing-crossplatform-chatbots-36-638.jpg?cb=1490627179
