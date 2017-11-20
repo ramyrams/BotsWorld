@@ -1,6 +1,10 @@
-https://qph.ec.quoracdn.net/main-qimg-49948ad685f60feba34f9694352e4749
-https://assets.entrepreneur.com/images/misc/1479757038_chatbot.jpg
-https://qph.ec.quoracdn.net/main-qimg-f23b737cf3d7a1c266efc7cd08bfa75d.webp
+![1](https://qph.ec.quoracdn.net/main-qimg-49948ad685f60feba34f9694352e4749)
+![1](https://assets.entrepreneur.com/images/misc/1479757038_chatbot.jpg)
+![1](https://qph.ec.quoracdn.net/main-qimg-f23b737cf3d7a1c266efc7cd08bfa75d.webp)
+
+![1](https://www.pypestream.com/wp-content/uploads/2016/10/insurance-phones_blog-e1476390006216.png)
+![1](https://www.pypestream.com/wp-content/uploads/2016/10/utilities-phones_blog-copy-e1476391617720.png)
+![1](https://www.pypestream.com/wp-content/uploads/2016/10/cable-phones_blog-e1476386753460.png)
 
 ![1](https://qph.ec.quoracdn.net/main-qimg-33351bcb27d99b8706ddc9da611d8439.webp)
 ![1](https://i.pinimg.com/564x/f1/61/6a/f1616a841d80093492f83c13a226ca4b--visual-communication-sf.jpg)
