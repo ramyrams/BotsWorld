@@ -39,6 +39,20 @@
 ![1](https://i.pinimg.com/564x/2e/73/4a/2e734a9916c0cceba04f3c85a206f6a2.jpg)
 ![1](https://i.pinimg.com/564x/87/b6/f9/87b6f999c6f3e5d5d77a065afe9b73eb--mobile-ui-platform.jpg)
 
+![1](https://www.netsolutions.com/bots/assets/images/chatbot-process.svg)
+![1](https://image.slidesharecdn.com/codemotion-roma-ondrisek-170327150526/95/insights-into-chatbot-development-implementing-crossplatform-chatbots-25-638.jpg?cb=1490627179)
+![1](https://image.slidesharecdn.com/codemotion-roma-ondrisek-170327150526/95/insights-into-chatbot-development-implementing-crossplatform-chatbots-25-638.jpg?cb=1490627179)
+![1](https://image.slidesharecdn.com/codemotion-roma-ondrisek-170327150526/95/insights-into-chatbot-development-implementing-crossplatform-chatbots-26-638.jpg?cb=1490627179)
+![1](https://image.slidesharecdn.com/codemotion-roma-ondrisek-170327150526/95/insights-into-chatbot-development-implementing-crossplatform-chatbots-36-638.jpg?cb=1490627179)
+![1](https://korezone-kore.netdna-ssl.com/wp-content/uploads/2017/03/Kore.aiArchitecture.png)
+
+![1](https://cdn-images-1.medium.com/max/2000/1*eNYl6B0L39uGiJD-ltNfQw.png)
+![1](http://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/39/2016/05/Ozlo-AI-assistant-630x400.jpg)
+![1](https://qph.ec.quoracdn.net/main-qimg-879f71c6951fecb9696b3a4eeadd9dfd.webp)
+![1](https://cdn-images-1.medium.com/max/2000/1*eNYl6B0L39uGiJD-ltNfQw.png)
+![1](https://qph.ec.quoracdn.net/main-qimg-89343fd10c7f2b8fadd47a411905dc0f.webp)
+![1](https://qph.ec.quoracdn.net/main-qimg-1c6dad39ded48040604dfd4a0acc488c.webp)
+![1](https://qph.ec.quoracdn.net/main-qimg-387970b9afa1aad96efb5c4312cca1fc.webp)
 
 
 ![1](https://3.bp.blogspot.com/-zALq_oMZ8fo/WDHu5QNIBPI/AAAAAAAACM0/6k4Twr1iyUYKD3Du70e7vvZ-5bcGR-PJgCLcB/s1600/image004.png)
