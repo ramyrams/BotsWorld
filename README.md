@@ -99,32 +99,7 @@ https://www.accenture.com/t00010101T000000__w__/br-pt/_acnmedia/PDF-45/Accenture
 * [Chatbots: Your Ultimate Prototyping Tool](https://medium.com/ideo-stories/chatbots-ultimate-prototyping-tool-e4e2831967f3#.7v20x754m)
 
 * [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/?utm_source=codropscollective)
-![1](https://korezone-kore.netdna-ssl.com/wp-content/uploads/2017/03/Kore.aiArchitecture.png)
-![1](http://www.brandchannel.com/wp-content/uploads/2016/04/spring-bot-600.jpg)
-![1](http://danielschristian.com/learning-ecosystems/wp-content/uploads/2016/06/Bots-ChatbotMagazine-June2016.jpg)
-![1](http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2016/06/chrisbot-930x615.png)
-![1](http://www.larryliu.me/SiteAssets/ipa/1-mjtM7X2iHsPdQZaVH33-CQ.png)
-![1](http://www.leifshows.dk/wp-content/uploads/2016/09/facebook-bots-3.jpg)
-![1](http://irishtechnews.net/ITN3/wp-content/uploads/2016/04/facebook-messenger-payments-759x500.jpg)
-![1](http://blogs-images.forbes.com/rachelarthur/files/2016/04/Spring_messenger1.png)
-![1](https://www.crowdflower.com/wp-content/uploads/2016/06/image00-1.jpg)
-![1](http://images.techtimes.com/data/images/full/239070/lybrate.jpg)
-![1](https://www.crowdflower.com/wp-content/uploads/2016/06/image02.png)
-![1](https://tctechcrunch2011.files.wordpress.com/2016/01/facebook-chat-uber.png)
-![1](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAlCAAAAJDAxZTRiNDMwLWE0MTYtNGJkNS1iNGQ4LTA3ZDJkYjY5ODVkYQ.png)
-![1](http://image.slidesharecdn.com/2016-160722160531/95/how-apis-are-enabling-the-chatbot-craze-all-about-the-api-13-638.jpg)
-![1](http://blog.intercomassets.com/wp-content/uploads/2015/11/23152022/sentence_diagram.png)
-![1](https://d262ilb51hltx0.cloudfront.net/max/1200/1*X-BKnQFtdALKR5R8bJBmVg.png)
-![1](https://cdn-images-1.medium.com/max/800/1*0WO2jWFcMGWHsKk5hKXcbg.jpeg)
-![1](http://cdn2.hubspot.net/hubfs/471759/chatbot_value_chain.png)
-![1](http://thetechportal.com/wp-content/uploads/2016/09/oracle-chatbot-fb-messenger-example.png)
-![1](https://pbs.twimg.com/media/ChzvrT7U4AAictB.jpg)
-![1](https://0.s3.envato.com/files/195871659/preview%202.jpg)
-![1](https://www.enterpriseirregulars.com/wp-content/uploads/2016/04/dionhinchcliffe.files_.wordpress.com201604how_chatbots_could_help_community_managers-5be10be69218cfaaf98c6fbb7a3bd3abfe1697a5.png)
-![1](https://dionhinchcliffe.files.wordpress.com/2016/04/anatomy_of_a_chatbot.png)
-![1](http://unvired.com/wp-content/uploads/2016/07/UDEP_Arch.png)
-![1](https://qph.ec.quoracdn.net/main-qimg-f038e32c101831c41f21125637939600?convert_to_webp=true)
-![1](https://lh4.googleusercontent.com/UQb-pWRi93g_0L1Y6A-34jSbJIzmR97EJLVHVGvd-VWyLLYxHKKUKgmwHD5B_FYNgvjx7sHtrivsTg16sJDF0zcOJss_Idk0kwxcJdf1s-GIW7i6OEOC0IkrftZkna6-FAZ3ET03)
+
 
 
 
