@@ -74,3 +74,78 @@ https://cdn-images-1.medium.com/max/1000/1*hyW4kWQXvQzJj6i69_ijyw.png
 The Ultimate Guide To Designing A Chatbot Tech Stack
 https://chatbotsmagazine.com/the-ultimate-guide-to-designing-a-chatbot-tech-stack-333eceb431da
 
+
+# The Top 5 Analytics Platforms For Chatbots
+* Dashbot — Best for Conversational Understanding
+* Botanalytics — Best for Tracking User Lifecycle
+* Facebook Analytics — Best for Ease of Integration 
+* BotMetrics — Best for Flexibility
+* Manner — Best for Optimisation
+
+https://chatbotsmagazine.com/which-analytics-the-top-5-analytics-platforms-for-chatbots-301154cf5dfe
+
+
+https://cdn-images-1.medium.com/max/1000/1*v_U6zKQZo2f6etl-pRwl8A.png
+
+
+Chatbot Design Trends 2018
+https://chatbotsmagazine.com/chatbot-design-trends-2018-253fb356d3a3
+
+UX
+http://uxofchatbots.com/
+
+19 Best UX Practices for Building Chatbots
+1. Strive for consistency: don’t create expectations that the chatbot can’t meet.
+2. Strive for consistency: provide a way back to the “main menu” somehow.
+3. Until it becomes an established practice, don’t rely on Facebook’s persistent menu.
+4. Don’t make the users go tl;dr.
+5. Test your chatbot on different devices to make sure users are not scrolling to read.
+6. Consistency: the key to making users feel safe to explore.
+7. If you must redirect users out of Messenger, Use webviews.
+8. Make your redirects relevant.
+9. Use UI components as “guard rails” in a conversation.
+10. Know that buttons and quick replies give an illusion of limited choices.
+11. Be aware of the context of your messages.
+12. Wording matters: clarity over elegance.
+13. Wording matters: confirm by asking, not stating.
+14. Wording matters: the response will follow the question.
+15. Don’t leave the user hanging.
+16. Undo and cancel as a functionality.
+17. Give opportunities to fix misunderstandings consistently throughout the interactions.
+18. Don’t display important texts as captions, and be mindful of pre-existing conventions.
+19. Keep your humor safe and professional.
+
+https://chatbotsmagazine.com/19-best-practices-for-building-chatbots-3c46274501b2
+
+
+# Design Framework for Chatbots
+https://cdn-images-1.medium.com/max/1000/1*zAy5zv5bucS7kcYHEMfMgw.gif
+
+
+1) The Bot Scope
+2) The Chatbot Personality
+3) A Prioritized List of Must-Have Features
+4) The Chatbot Flow
+
+https://cdn-images-1.medium.com/max/1000/1*mHk-k7HjjgroOR8KH_aYPQ.png
+
+
+https://chatbotsmagazine.com/design-framework-for-chatbots-aa27060c4ea3
+	
+
+# 11 More Best UX Practices for Building Chatbots
+1. Your chatbot needs a voice.
+2. Be conscientious of how the representation of your chatbot affects the user experience.
+3. Increase wait time with each additional message to give users time to read.
+4. Make sure buttons are functional at all points of the conversation.
+5. Learn when it is appropriate to employ quick replies or buttons.
+6. Write quick replies from a first-person perspective—that is, as a user would respond.
+7. Learn to say “no” tactfully, for the users’ sake.
+8. If you‘re asking for a text input after using quick replies, remind the user to type.
+9. Craft clever responses to cover all ground.
+10. Prune your branches: Linear navigation is superior to nested navigation for conversational interfaces.
+11. Provide a way to reengage the chatbot when your interaction is over.
+
+https://chatbotsmagazine.com/11-more-best-ux-practices-for-building-chatbots-67362d1104d9
+
+
