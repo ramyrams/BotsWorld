@@ -413,3 +413,6 @@ https://cdn-images-1.medium.com/max/2000/1*s6S6FOBVGFpwxTG-7pagKw.png
 https://botmakers.net/chatbot-templates?utm_source=content&utm_medium=blog
 
 
+
+# Playbook for Testing Chatbots
+https://chatbotsmagazine.com/playbook-for-testing-chatbots-400918888faf
