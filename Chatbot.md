@@ -403,3 +403,13 @@ https://cdn-images-1.medium.com/max/1000/1*WXb2dFhJSjFOuv1Fd0SsKg.png
 
 Audio
 https://cdn-images-1.medium.com/max/1000/1*tShFXvtj9zRRXMgetFlefQ.png
+
+
+https://cdn-images-1.medium.com/max/2000/1*x6BMYnOHZ9k4_9lxbOQTNg.jpeg
+https://cdn-images-1.medium.com/max/2000/1*79rSiR14JE04saronJ6x3w.png
+https://cdn-images-1.medium.com/max/2000/1*s6S6FOBVGFpwxTG-7pagKw.png
+
+# Chatbot templates
+https://botmakers.net/chatbot-templates?utm_source=content&utm_medium=blog
+
+
