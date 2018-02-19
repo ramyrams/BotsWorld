@@ -365,3 +365,41 @@ https://chatbotsmagazine.com/top-5-benefits-with-using-chatbots-for-your-busines
 https://chatbotsmagazine.com/10-chatbot-tips-for-businesses-894b39be34f4
 
 
+
+https://blog.hubspot.com/hubfs/kik_sephora-1.jpg?t=1519080170698
+https://blog.hubspot.com/hubfs/Spring_messenger1-1.png?t=1519080170698
+https://www.marutitech.com/wp-content/uploads/2017/03/Simulated-conversation.jpg
+
+
+
+https://ucdc.therectangles.com/
+
+Text Elements
+https://cdn-images-1.medium.com/max/1600/1*upsVaKkPtUBfj_r2gpXjpg.png
+
+Text Element with Buttons
+https://cdn-images-1.medium.com/max/1000/1*V7HBulchax2JI14zIV_IHA.png
+
+Text Element without Buttons
+https://cdn-images-1.medium.com/max/1000/1*Q46k_Mhhu9hlZzTD1yBI3A.png
+
+Media Elements
+https://cdn-images-1.medium.com/max/1600/1*RyhnF743OAqKQww3_gNemw.png
+
+Quick Responses
+https://cdn-images-1.medium.com/max/1000/1*FH8HHF7rOJt8uiYHg344vg.png
+
+Carousel Element with Buttons
+https://cdn-images-1.medium.com/max/1000/1*5UceZqJ6YQI5jBKtwYm37A.png
+
+Carousel Element without Buttons
+https://cdn-images-1.medium.com/max/1000/1*Ebo7-fVXo-2LiAsnd7jEaA.png
+
+Image
+https://cdn-images-1.medium.com/max/1000/1*lLYpGcMwKNP1jIohyBSgFQ.png
+
+Video
+https://cdn-images-1.medium.com/max/1000/1*WXb2dFhJSjFOuv1Fd0SsKg.png
+
+Audio
+https://cdn-images-1.medium.com/max/1000/1*tShFXvtj9zRRXMgetFlefQ.png
