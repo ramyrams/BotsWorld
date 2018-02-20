@@ -893,3 +893,34 @@ https://chatbotsmagazine.com/chatbot-testing-specifics-and-techniques-2d496b62a3
 https://chatbotsmagazine.com/a-guide-to-unlocking-the-chatbot-inside-your-cms-part-2-d5ead379b6ef
 
 
+https://cdn-images-1.medium.com/max/1250/1*X-BKnQFtdALKR5R8bJBmVg.png
+
+# The Complete Beginner’s Guide To Chatbots
+https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca
+
+# The Bot Lifecycle
+The steps of a bot life cycle are as follows:
+https://cdn-images-1.medium.com/max/1000/1*ZD3hzuZdXqQWAermzrWmXw.png
+
+https://chatbotsmagazine.com/the-bot-lifecycle-1ff357430db7
+
+# Four Types Of Bots
+Stateless bots
+Semi-sateful bots
+Stateful bots
+Loyal bots
+https://chatbotsmagazine.com/four-types-of-bots-432501e79a2f
+
+#  Bot Playbook
+https://chatbotsmagazine.com/the-bot-playbook-7bb6d181a6a9
+
+
+Chat Log
+https://chatbotsmagazine.com/the-secrets-hidden-in-my-chatbot-logs-you-dont-know-how-to-talk-to-bots-77c4b5acf47d
+
+# Secret Invasion of Business Bots
+https://chatbotsmagazine.com/secret-invasion-of-business-bots-e35da408c206
+
+# 10 Simple Tips on Bot Strategy and Design
+
+
