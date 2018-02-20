@@ -737,3 +737,159 @@ https://chatbotsmagazine.com/bot-analytics-the-case-for-third-party-tools-4272c0
 # Does a Bot Need Natural Language Processing?
 https://chatbotsmagazine.com/does-a-bot-need-natural-language-processing-c2f76ab7ef11
 
+# Test
+https://chatbotsmagazine.com/15-tools-you-can-use-to-beta-test-your-chatbot-5a0723c7f4b2
+
+
+https://cdn-images-1.medium.com/max/2000/1*l6bfLEoWl2OJx0tBIHPA-w.jpeg
+
+# How To Develop a Chatbot From Scratch
+1. Identify the Opportunities For an AI-Based Chatbot
+2. Understanding the Goals of Customers
+3. Designing a Chatbot Conversation
+4. Building a Chatbot Using Frameworks or Development (Non-Coding) Platforms
+
+Chatbot Platforms
+
+https://cdn-images-1.medium.com/max/1000/1*iTQ_0Qx_K4-t1HpBGQXcDw.png
+
+# https://chatbotsmagazine.com/how-to-develop-a-chatbot-from-scratch-62bed1adab8c
+
+# How To Choose The Right Tech Stack?
+
+# How To Explain The Technologies Powering a Chatbot?
+https://cdn-images-1.medium.com/max/1000/1*BVBQ-uiAOYB9LthbSoiUUA.png
+
+https://chatbotsmagazine.com/the-ultimate-guide-to-designing-a-chatbot-tech-stack-333eceb431da
+
+
+# A “C-L-U-E” To Improve Your Bot Metrics
+Context
+Love
+Use Case
+Expectations
+
+https://chatbotsmagazine.com/a-c-l-u-e-to-improve-your-bot-metrics-cb44cc423eb4
+
+# UX
+https://chatbotsmagazine.com/writing-skills-at-the-️-of-chatbot-ux-design-17762b906a57
+
+# Backend Design/Architecture Practices for Chatbots
+https://chatbotsmagazine.com/backend-design-architecture-practices-for-chatbots-a40817ed5b70
+
+# The Bot 101
+https://chatbotsmagazine.com/the-bot-101-part-1-ff88c4dcf455
+https://chatbotsmagazine.com/the-bot-101-part-2-cc202644616
+https://chatbotsmagazine.com/the-bot-101-part-3-8975105dff77
+https://chatbotsmagazine.com/the-bot-101-part-4-c7243649a412
+
+# How to Build Great Bots for Big Companies
+
+Phase I — Bot Workshop
+	1- The Bot’s Functionalities
+	2- The Conversational Flow
+	3- UX & Personality
+	4- User Acceptance Tests
+
+II — Technical Design
+1- The Business Logic
+3- Knowledge Base
+
+III — Test & Train
+1- Test
+2- Train
+
+https://cdn-images-1.medium.com/max/1000/0*fQ-gIjN2OwRaiqe-.png
+https://chatbotsmagazine.com/building-great-bots-an-enterprise-chatbot-methodology-c89aa188da2f
+
+# Building A Bot: Chatbot Building Platforms Comparison
+https://chatbotsmagazine.com/building-a-bot-chatbot-building-platforms-comparison-b61c118148c5
+
+# UX
+50-concepts-to-master-chatbots-and-conversational-interfaces
+https://chatbotsmagazine.com/50-concepts-to-master-chatbots-and-conversational-interfaces-9566973356f9
+
+# The Language of Chatbots
+
+https://chatbotsmagazine.com/the-language-of-chatbots-99a38be54b58
+
+
+
+https://chatbotsmagazine.com/product-management-for-ai-startups-d738aebb8430
+
+# 11 More Best UX Practices for Building Chatbots
+https://chatbotsmagazine.com/11-more-best-ux-practices-for-building-chatbots-67362d1104d9
+
+# A Product Manager’s Guide to Building Your First Bot
+https://chatbotsmagazine.com/a-product-managers-guide-to-building-your-first-bot-fde15ba2757d
+
+
+# Chatbot Architecture
+ three main parts:
+* Messaging app or channel : Where the bot lives which is the frontend
+* Bot Backend : Bot application which can be caded from scratch, coded using a framework or built with a chatbot platform
+* Server were bot backend is deployed to : local or remote server
+
+# Chatbot Vocabulary: 10 Chatbot Terms You Need to Know
+
+https://chatbotsmagazine.com/chatbot-vocabulary-10-chatbot-terms-you-need-to-know-3911b1ef31b4
+https://cdn-images-1.medium.com/max/2000/1*K6ckCryol2tsmaWORs-e8g.png
+
+
+1. The concept, or “why are you building this thing?”
+- What should my chatbot do?
+
+- Does my chatbot solve an issue? If so, what is it?
+
+- What is the number one reason my chatbot will exist?
+
+- Whom is my chatbot going to be used by?
+
+
+2. The tone of voice, or “how is it going to interact?”
+- Is my chatbot formal or informal?
+
+- Which age group is my chatbot targeting?
+
+- Is my chatbot friendly, serious, fun, computerised?
+
+- What mindset should my subscribers have when talking to my chatbot?
+
+3. The conversational UX, or “how is this actually going to work?”
+
+- Is my chatbot going to pretend to be human? We advise against this at the moment (early 2017)
+
+- Does my chatbot need to use AI?
+
+- Can my chatbot function as a simple message and button guided conversation?
+
+4. The marketing, or “how are you going to get people to use this?”
+
+- Will it have any virality tools, like sharing or tweeting?
+
+- How much budget do I have to get people using it?
+
+- Does my chatbot need branding or any collateral along with its persona?
+
+5. Your business model, or “how are you going to make money?”
+
+
+#Monetise Your Bot
+https://cdn-images-1.medium.com/max/1000/1*GfgwKZeG0cOLXmhen53Dtw.png
+
+# Enterprise Bot Strategy
+https://chatbotsmagazine.com/enterprise-bot-strategy-fad11e41ae9c
+
+# 10 Chatbot Tips for Businesses
+https://chatbotsmagazine.com/10-chatbot-tips-for-businesses-894b39be34f4
+
+# 12 Reasons Why Voice-First Should Be a Crucial Part of Business Strategy
+https://chatbotsmagazine.com/12-reasons-why-voice-first-should-be-a-crucial-part-of-business-strategy-aef98278ad1a
+
+# Chatbot Testing: Specifics and Techniques
+https://chatbotsmagazine.com/chatbot-testing-specifics-and-techniques-2d496b62a37c
+
+
+https://chatbotsmagazine.com/a-guide-to-unlocking-the-chatbot-inside-your-cms-part-2-d5ead379b6ef
+
+
