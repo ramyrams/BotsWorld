@@ -416,3 +416,94 @@ https://botmakers.net/chatbot-templates?utm_source=content&utm_medium=blog
 
 # Playbook for Testing Chatbots
 https://chatbotsmagazine.com/playbook-for-testing-chatbots-400918888faf
+
+
+How to Document Chatbot Requirements
+
+Conversation Flow
+	conversation flow is a dialog tree.
+
+
+
+# How to design conversation flow:
+* **Consider on-boarding.** Decide how your chatbot starts its dialog and what kind of options it gives to your users.
+* **Sketch a flow chart.** Create the flow for every task user can accomplish talking to you bot.
+* **Pay attention to triggers.** Work on the most important part of conversation flow — conditional triggers that split the flow depending on user replies and actions.
+* **Think about error handling.** Make sure your chatbot can handle any user input and suggest the kind of answer it expects to get in case user input isn’t parsed correctly.
+* **Check for dead-ends.** Visualization of a dialog helps ensure your bot guides user over conversation step-by-step and avoids dead-ends.
+
+
+https://cdn-images-1.medium.com/max/1250/1*eI5jlSkETgUuRXw3swHvxA.jpeg
+
+# How to create documentation using intents:
+* **Define the list of intents.** In other words, itemize all tasks users may want to accomplish or the problems users may need to solve using your chatbot.
+* **Write the list of utterances for every intent.** Provide the examples of sentences your users may type or tell when referring to a specific intent.
+* **Identify entities. Figure out possible entities.** Entities include the details important for the user’s intent. NLP bots extract entities from user messages to provide a relevant action or/and reply.
+* **Specify a set of actions.** Build up a set of actions determined by intents, extracted entities and expected bot logics.
+* **Combine everything into a table.** Create the table with intents, utterances, entities and actions to get a relevant picture of the possible user-bot conversations.
+
+
+https://cdn-images-1.medium.com/max/1250/1*OOkwHjbRyqHTgyxyWi9RBA.png
+
+
+# How to create a clickable prototype:
+* **Select a relevant tool.** Choosing the right tool, go for the platform built for chatbot development. This is a sure way to have all necessary actions and controls.
+* **Prepare a dialogue script.** Finalize your copy and use it in the prototype.
+* **Prepare graphic elements.** If you plan to use cards with images, prepare all relevant content instead of using empty or default images. This should help build more complete experience with a chatbot prototype.
+* **Rely on conversation flow.** It is not necessary to create conversation flow in addition to prototype. But if you have it, at least on paper, make sure you follow all the steps.
+* **Put the graphics and scripts into your tool.** If you have a clear vision of the flow and all assets, you can put everything in the tool and share it for analysis and feedback.
+
+
+
+Sentiment Analysis and Tone Analyzer, using both or some o these techniques, can be a start point to human and machine interact with a representation comfortable to them.
+* Offer a new channel to deal with unhappy users, that might be redirecting them to a human
+* Better understanding the user intents
+* Extract and record key and relevant feelings and emotions of users
+* Share the relevant info with the right people
+* Opportunity to learn from customers
+* Give a new level of intelligence to the Bot
+
+https://chatbotsmagazine.com/when-the-bots-fall-in-love-426d7aff53ff
+
+
+# Good Interesting Project
+https://chatbotsmagazine.com/real-time-infrastructure-monitoring-with-amazon-echo-28175cff6e60
+https://chatbotsmagazine.com/selenium-for-chatbots-introducing-botium-1f1f0b3d4164
+https://chatbotsmagazine.com/building-a-foodkick-sms-sale-notifier-bot-64106c9de945
+
+https://cdn-images-1.medium.com/max/1500/1*2me0dVI3pKM9KCCmqLlCkQ.png
+
+
+
+# How to Design Conversations that Influence People
+But #1: which conversation should I build first?
+But #2: conversation design shouldn’t be rocket science!
+But #3: why not just design the conversation steps straight away!?
+But #4: I don’t know what the key conversations are?!
+But #5: I have very different types of customers!?
+
+Here’s some ways to identify your key conversation topics:
+
+* Review existing web-chats or phone call data for the top FAQs
+* Look at your top web search terms or google search terms
+* Brainstorm the key tasks customers and employees need/want to be able to do with your organisation
+
+https://chatbotsmagazine.com/how-to-design-conversations-that-influence-people-b20d07a5c8d3
+
+
+# 10 Benefits of Adopting Chatbot by Small and Medium Business
+1. Keep Your Business up and Running 24/7
+2. Reduce Customer Acquisition Cost (CAC)
+3. Increase Net Business Promoters
+4. Drives In-App Purchase with Better Engagement
+5. Increasing Retention Rates
+6. Stay In the Spotlight
+7. Delivering Personalized Experience
+8. Derive Business Intelligence
+9. Better Conversation with Interpersonal and Social Skills
+10. More Revenue Opportunities
+
+https://chatbotsmagazine.com/10-benefits-of-adopting-chatbot-by-small-and-medium-business-194e1c5368c5
+
+
+
