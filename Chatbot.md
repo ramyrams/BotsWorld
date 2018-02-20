@@ -697,5 +697,43 @@ https://chatbotsmagazine.com/how-to-design-conversations-that-influence-people-b
 
 https://chatbotsmagazine.com/10-benefits-of-adopting-chatbot-by-small-and-medium-business-194e1c5368c5
 
+# Data Modeling and the Conversational User Interface
 
+
+# How To Increase Engagement & Retention Rates On Your Bot
+https://chatbotsmagazine.com/how-to-increase-the-engagement-retention-rates-on-your-bot-part-1-82bfee4bd835
+
+# Maintaining Context in Chatbots
+https://chatbotsmagazine.com/maintaining-context-in-chatbots-2016b6a5b7c6
+
+#Design Considerations for Conversational UX
+https://chatbotsmagazine.com/design-considerations-for-conversational-ux-7de9d8bc761c
+https://chatbotsmagazine.com/7-things-you-know-in-ux-that-will-help-you-design-chatbots-d4c4228cdf08
+
+# How To Build Great Bots
+1) Know your audience.
+2) Start simple, start small.
+3) Build for conversations.
+4) Be social.
+
+https://chatbotsmagazine.com/how-to-build-great-bots-eb7de5a53700
+
+# The Eight Steps You Go Through When Building A Bot
+Identity Creation
+Build Your Flow
+Setup Language Processing
+Code
+Connect To Messaging Apps
+Testing With Beta Users
+Host Your Bot
+Monitor
+
+https://chatbotsmagazine.com/here-are-the-eight-steps-youll-go-through-building-a-bot-6982433c31b3
+
+
+# Analtical
+https://chatbotsmagazine.com/bot-analytics-the-case-for-third-party-tools-4272c0b10452
+
+# Does a Bot Need Natural Language Processing?
+https://chatbotsmagazine.com/does-a-bot-need-natural-language-processing-c2f76ab7ef11
 
