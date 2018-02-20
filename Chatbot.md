@@ -506,4 +506,196 @@ https://chatbotsmagazine.com/how-to-design-conversations-that-influence-people-b
 https://chatbotsmagazine.com/10-benefits-of-adopting-chatbot-by-small-and-medium-business-194e1c5368c5
 
 
+# 10 Benefits of Integrating a Chatbot with Your Business Website
+1. A Chatbot Makes Your Website a Helpdesk with Zero-Waiting Time
+2. A Chatbot Delivers Personalized Experience That Is High on Demand
+3. A Chatbot Elevates the Customer Service Level
+4. A Chatbot Helps with Improving User Engagement
+5. A Chatbot Helps with Targeting a Wider Audience
+6. A Chatbot Helps Derive Business Intelligence
+7. A Chatbot Helps with Payment or Checkout
+8. A Chatbot Helps Perform a Survey
+9. A Chatbot Make Push Notifications More Relevant
+10. Keep up with Trends
+https://chatbotsmagazine.com/10-benefits-of-integrating-a-chatbot-with-your-business-website-851af2401379
+
+
+#Project
+https://chatbotsmagazine.com/advanced-chatops-with-microsoft-teams-part-1-d0bb51da9a60
+
+
+
+This generated profile includes data regarding the author’s…
+
+Personality — a model for generally describing how a person engages with the world. This is broken down into a Big Five group of characteristics that include, for example, agreeableness and openness.
+Needs — aspects of a product that would resonate with a person.
+Values — motivating factors behind a person’s decision making.
+Consumption Behaviors — the likelihood of a person pursuing different activities, products, and services.
+
+
+# Messenger Platforms Forecast
+https://cdn-images-1.medium.com/max/1000/1*lWvYrniccasvH6pRXNCIVA.png
+
+# Why is this type of interface so promising?
+- Colors, shapes, fonts and pictures
+- Performance and speed of pages and loading
+- Which contents are more relevant to the user
+- What is the highest number of clicks that an user can have to achieve what they want
+
+# 19 Best UX Practices for Building Chatbots
+https://chatbotsmagazine.com/19-best-practices-for-building-chatbots-3c46274501b2
+
+# How Secure Are Chatbots?
+https://chatbotsmagazine.com/how-secure-are-chatbots-2a76f115618d
+
+# Building a Chatbot: Analysis & Limitations of Modern Platforms
+https://chatbotsmagazine.com/building-a-chatbot-analysis-limitations-of-modern-platforms-12acfb288102
+
+# Defining Your Bot’s Purpose and Focusing Its Domain Knowledge
+https://cdn-images-1.medium.com/max/1000/1*JyecC9hDuVSlMaUN02MIbg.jpeg
+
+# 7 Types of Bots
+‘The Optimizer’
+‘The One-Trick Pony’
+‘The Proactive’
+‘The Social’
+‘The Shield’
+‘The Chatty’
+‘The Super Bot’
+https://chatbotsmagazine.com/7-types-of-bots-8e1846535698
+
+
+# Designing Conversational UI with Information Architecture — Part 3
+https://chatbotsmagazine.com/designing-conversational-ui-with-information-architecture-part-3-b4746835a517
+
+# Design Framework for Chatbots
+https://chatbotsmagazine.com/design-framework-for-chatbots-aa27060c4ea3
+
+
+# Conversational UX Design. All Facebook Messenger Bots Interactions
+https://chatbotsmagazine.com/cheat-sheet-all-facebook-chatbot-interactions-4b14e4e00178
+
+#How To Make A Chatbot Intelligent?
+https://chatbotsmagazine.com/how-to-make-a-chatbot-intelligent-a232dc367aed
+https://chatbotsmagazine.com/machine-learning-neural-networks-and-algorithms-5c0711eb8f9a
+https://chatbotsmagazine.com/natural-language-processing-and-machine-learning-the-core-of-the-modern-smart-chatbot-8755c6343fa5
+
+
+# Monetization Strategies
+https://chatbotsmagazine.com/monetization-strategies-how-will-bots-become-profitable-ae6f08e04493
+
+
+# What is Fundamentally Possible With Chatbots Today?
+Intents
+Entities
+Limitations
+
+https://chatbotsmagazine.com/what-is-fundamentally-possible-with-chatbots-today-a0db3b95c236
+
+https://chatbotsmagazine.com/which-is-best-for-you-rule-based-bots-or-ai-bots-298b9106c81d
+
+# User Acquisition & Monetization
+https://chatbotsmagazine.com/user-acquisition-monetization-e53adce2d67a
+
+# Designing Conversational UI with Information Architecture — Part 4
+https://chatbotsmagazine.com/designing-conversational-ui-with-information-architecture-part-4-1043d21f19cf
+
+# Which Is Best for You: Rule-Based Bots or AI Bots?
+https://chatbotsmagazine.com/which-is-best-for-you-rule-based-bots-or-ai-bots-298b9106c81d
+
+# 3 Things to Know Before Building a Bot
+* Bet On One Messaging Platform
+* Plan For Scaling
+* Do One Thing Well
+
+
+
+How to Document Chatbot Requirements
+
+Conversation Flow
+	conversation flow is a dialog tree.
+
+
+
+# How to design conversation flow:
+* **Consider on-boarding.** Decide how your chatbot starts its dialog and what kind of options it gives to your users.
+* **Sketch a flow chart.** Create the flow for every task user can accomplish talking to you bot.
+* **Pay attention to triggers.** Work on the most important part of conversation flow — conditional triggers that split the flow depending on user replies and actions.
+* **Think about error handling.** Make sure your chatbot can handle any user input and suggest the kind of answer it expects to get in case user input isn’t parsed correctly.
+* **Check for dead-ends.** Visualization of a dialog helps ensure your bot guides user over conversation step-by-step and avoids dead-ends.
+
+
+https://cdn-images-1.medium.com/max/1250/1*eI5jlSkETgUuRXw3swHvxA.jpeg
+
+# How to create documentation using intents:
+* **Define the list of intents.** In other words, itemize all tasks users may want to accomplish or the problems users may need to solve using your chatbot.
+* **Write the list of utterances for every intent.** Provide the examples of sentences your users may type or tell when referring to a specific intent.
+* **Identify entities. Figure out possible entities.** Entities include the details important for the user’s intent. NLP bots extract entities from user messages to provide a relevant action or/and reply.
+* **Specify a set of actions.** Build up a set of actions determined by intents, extracted entities and expected bot logics.
+* **Combine everything into a table.** Create the table with intents, utterances, entities and actions to get a relevant picture of the possible user-bot conversations.
+
+
+https://cdn-images-1.medium.com/max/1250/1*OOkwHjbRyqHTgyxyWi9RBA.png
+
+
+# How to create a clickable prototype:
+* **Select a relevant tool.** Choosing the right tool, go for the platform built for chatbot development. This is a sure way to have all necessary actions and controls.
+* **Prepare a dialogue script.** Finalize your copy and use it in the prototype.
+* **Prepare graphic elements.** If you plan to use cards with images, prepare all relevant content instead of using empty or default images. This should help build more complete experience with a chatbot prototype.
+* **Rely on conversation flow.** It is not necessary to create conversation flow in addition to prototype. But if you have it, at least on paper, make sure you follow all the steps.
+* **Put the graphics and scripts into your tool.** If you have a clear vision of the flow and all assets, you can put everything in the tool and share it for analysis and feedback.
+
+
+
+Sentiment Analysis and Tone Analyzer, using both or some o these techniques, can be a start point to human and machine interact with a representation comfortable to them.
+* Offer a new channel to deal with unhappy users, that might be redirecting them to a human
+* Better understanding the user intents
+* Extract and record key and relevant feelings and emotions of users
+* Share the relevant info with the right people
+* Opportunity to learn from customers
+* Give a new level of intelligence to the Bot
+
+https://chatbotsmagazine.com/when-the-bots-fall-in-love-426d7aff53ff
+
+
+# Good Interesting Project
+https://chatbotsmagazine.com/real-time-infrastructure-monitoring-with-amazon-echo-28175cff6e60
+https://chatbotsmagazine.com/selenium-for-chatbots-introducing-botium-1f1f0b3d4164
+https://chatbotsmagazine.com/building-a-foodkick-sms-sale-notifier-bot-64106c9de945
+
+https://cdn-images-1.medium.com/max/1500/1*2me0dVI3pKM9KCCmqLlCkQ.png
+
+
+
+# How to Design Conversations that Influence People
+But #1: which conversation should I build first?
+But #2: conversation design shouldn’t be rocket science!
+But #3: why not just design the conversation steps straight away!?
+But #4: I don’t know what the key conversations are?!
+But #5: I have very different types of customers!?
+
+Here’s some ways to identify your key conversation topics:
+
+* Review existing web-chats or phone call data for the top FAQs
+* Look at your top web search terms or google search terms
+* Brainstorm the key tasks customers and employees need/want to be able to do with your organisation
+
+https://chatbotsmagazine.com/how-to-design-conversations-that-influence-people-b20d07a5c8d3
+
+
+# 10 Benefits of Adopting Chatbot by Small and Medium Business
+1. Keep Your Business up and Running 24/7
+2. Reduce Customer Acquisition Cost (CAC)
+3. Increase Net Business Promoters
+4. Drives In-App Purchase with Better Engagement
+5. Increasing Retention Rates
+6. Stay In the Spotlight
+7. Delivering Personalized Experience
+8. Derive Business Intelligence
+9. Better Conversation with Interpersonal and Social Skills
+10. More Revenue Opportunities
+
+https://chatbotsmagazine.com/10-benefits-of-adopting-chatbot-by-small-and-medium-business-194e1c5368c5
+
+
 
