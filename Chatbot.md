@@ -924,3 +924,110 @@ https://chatbotsmagazine.com/secret-invasion-of-business-bots-e35da408c206
 # 10 Simple Tips on Bot Strategy and Design
 
 
+
+Designing bot applications
+•	 Setting up a development environment
+•	 Understanding the bot life cycle and components
+•	 Running and testing using Bot Emulator
+•	 Deploying bot to Azure
+•	 Registering bot using the Developer Portal
+•	 Testing the use of bot channels like Skype and embedded web controls
+
+
+Here are a few best practices you should follow when designing a bot:
+•	 A bot makes its intent clear in the first impression. Unlike web or
+mobile applications, there is not much surface area for a bot to
+explain its primary feature set, which makes it both difficult and
+important to let the user know what the bot can do.
+•	 A bot should let the user navigate in a non-linear fashion. As in
+any type of application, users do not always navigate from Step
+1 to Step N in a linear fashion; they might jump back and forth.
+Although it is difficult to achieve the same thing in a conversation,
+you should design your bot to allow the user to navigate in a nonlinear
+fashion.
+•	 Always provide help so that at any point the user can seek
+information on the current state and the next steps. Bot-style
+applications are new, so novice users might not understand how a
+bot operates. Providing timely help is very important to make the
+bot discoverable.
+•	 Respond to the user’s input immediately if there is any
+background processing involved. Provide an immediate
+acknowledgement and respond with an update on the
+background process later.
+•	 A bot should always try to seek as little information as possible
+from the user. You can use the user’s past conversations or
+personal data to fill in basic queries. For example, when searching
+for restaurants, you can show the restaurants near to the user’s
+current location.
+•	 A bot should always seek the user’s permission before storing
+or accessing personal information. If requested by the user, the
+bot should permanently remove all the personal information
+belonging to the user.
+
+What you should not do when designing a bot? See the following list:
+•	 Do not force the user to provide a specific input for proceeding
+further. If you are expecting a specific input from the user, set
+maximum retries and fall back.
+•	 Do not provide obvious responses to the user; for example: “Hi,
+Jack. Looks like you are driving back home; have a safe journey.”
+Always provide information that is useful.
+•	 Do not enforce natural language processing for every scenario
+that might impact the performance of the application. Whenever
+possible, ask specific questions and use regular expressions for
+parsing the message instead of AI APIs like LUIS.
+•	 Do not use past conversation to confuse the user. For example, if
+the user is trying to book a flight, his past bookings might or might
+not help him. Using the conversation history in the context of
+current conversation is a conscious decision to make.
+
+
+# Understanding Conversations
+Conversations are a series of messages passed between bots and users. A conversation
+can take the following shapes:
+•	 One-to-one conversation between a user and a Bot
+•	 One-to-many conversations between a Bot and users
+•	 Conversation between Bots
+Almost all channels implement one-to-one conversation between a user and bot, but
+not all channels implement group conversations. Documentation of individual channels
+should be referred before implementing group conversation. Email is one of the channels
+that implements group conversation.
+
+
+# Storing State
+
+•	 Types of state management available in MS Bot framework
+•	 Introduce and interact with state service
+•	 State management in bots with dialogs
+•	 Storing custom state information
+•	 Storing state in Cosmos DB (formerly known as DocumentDB)
+and table storage
+
+#Stores for Bot State
+The MS Bot framework provides three stores that you can use to store state, as follows:
+•	 User data state
+•	 Conversation data state
+•	 Private conversation state
+
+
+#Chatbot User Interface Elements
+Carousel
+A carousel is a collection of items that can be browsed horizontally. A carousel contains
+cards that are displayed one by one and that can contain the following:
+•	 Image
+•	 Title
+•	 Subtitle
+•	 Buttons (up to three calls to action, depending on the platform)
+
+Quick Replies
+•	 Title
+•	 Text
+•	 Image (optional)
+
+Buttons
+•	 Title
+•	 Payload text or URL
+
+
+Web Views
+
+
