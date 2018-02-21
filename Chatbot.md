@@ -1031,3 +1031,26 @@ Buttons
 Web Views
 
 
+
+# UI Element
+View UI Sample - https://uimovement.com/tag/chatbots/
+
+
+# Introducing the 5 W’s Framework
+Knowing this, when engaging a user in a conversation it is imperative to accomplish two goals as quickly and efficiently as possible:
+
+**Engage + Collect: **
+First, directly engage the user with a line of questioning that has been crafted to quickly collect the information needed to better understand their active intent, needs, and desires.
+**Parse + Deliver**
+Second, immediately parse the information collected and use it to assemble and deliver a set of curated content that possesses the greatest potential to fulfill their needs.
+
+Each of the 5 W’s can certainly be used independently. However, when we get creative and start to string two or more together, their power to frame and craft a targeted line of questioning with the ability to identify, and quickly collect the information necessary to understand the active intent, needs, and goals of a user is revealed.
+
+
+https://cdn-images-1.medium.com/max/1250/1*qWTw3jX8ohObf3x8ZReCjQ.png
+https://cdn-images-1.medium.com/max/1250/1*t2sJAPi8snx50fsXSQ6sJg.jpeg
+https://cdn-images-1.medium.com/max/1250/1*O_LCT5Njk7c57ONy2aHxlw.png
+https://cdn-images-1.medium.com/max/1250/1*KfZ6pdYzi8qOw2RIrz5gAQ.png
+https://cdn-images-1.medium.com/max/1250/1*KfZ6pdYzi8qOw2RIrz5gAQ.png
+
+
