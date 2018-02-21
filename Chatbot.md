@@ -1054,3 +1054,139 @@ https://cdn-images-1.medium.com/max/1250/1*KfZ6pdYzi8qOw2RIrz5gAQ.png
 https://cdn-images-1.medium.com/max/1250/1*KfZ6pdYzi8qOw2RIrz5gAQ.png
 
 
+
+# Mockup tools
+Mockup tools allow you to visualize the conversation
+between the user and the bot and showcase the dynamics of conversational turntaking.
+BotSociety.io (https://botsociety.io/) and BotMock.com (https://botmock.com
+/) are some of the popular mockup tools. Some of these tools allow you to export
+the mockup design and make videos.
+
+# Channels
+
+Channels refer to places where users can interact with the chatbot. There are
+several deployment channels over which your bots can be exposed to users.
+These include messaging services such as Facebook Messenger, Skype, Kik,
+Telegram, WeChat, and Line; office and team chat services such as Slack,
+Microsoft Teams, and many more; traditional channels such as the web chat,
+SMS, and voice calls; and smart speakers such as Amazon Echo and Google
+Home.
+
+# Analytics
+
+# Chatbot development tools
+
+There are many tools that you can use to build chatbots without having to code
+even a single line: Chatfuel, ManyChat, Dialogflow, and so on. Chatfuel allows
+designers to create the conversational flow using visual elements. With
+ManyChat, you can build the flow using a visual map called the FlowBuilder.
+Conversational elements such as bot utterances and user response buttons can be
+configured using drag and drop UI elements. Dialogflow can be used to build
+chatbots that require advanced natural language understanding to interact with
+users.
+
+# Natural Language understanding
+
+Chatbots can be built without having to understand utterances from the user.
+However, adding the natural language understanding capability is not very
+difficult. It is one of the hallmark features that sets chatbots apart from their
+digital counterparts such as websites and apps with visual elements. There are
+many natural language understanding modules that are available as cloud
+services. Major IT players like Google, Microsoft, Facebook, and IBM have
+created tools that you can plug into your chatbot. Google's Dialogflow,
+Microsoft LUIS, IBM Watson, SoundHound, and Facebook's Wit.ai are some of
+the NLU tools that you can try. We will explore Dialogflow (previously called
+Api.Ai) in some of the chapters.
+
+# Monetization
+
+Chatbots are built for many purposes: to create awareness, to support customers
+after sales, to provide paid services, and many more. In addition to all these,
+chatbots with interesting content can engage users for a long time and can be
+used to make some money through targeted personalized advertising. Services
+such as CashBot.ai and AddyBot.com can integrate with your chatbot to send
+targeted advertisements and recommendations to users, and when users engage,
+your chatbot makes money.
+The aforementioned is not an exhaustive list of tools and nor are the services
+listed under each type. These tools are evolving over time as chatbots are finding
+their niche in the market. This list is to give you an idea of how
+multidimensional the ecosystem is and help you explore the space and feed your
+creative mind.
+
+
+
+# Benefits
+Conversational user interfaces bring in the best of both worlds: human-like
+natural interaction combined with the benefits of digital technology.
+* **Availability:** Like any other automated digital technologies, conversational
+interfaces are low-cost and are available 24/7. It is like having someone
+man the web chat desk all the time so that customers always have someone
+to get answers from.
+* **Personalized experience:** Unlike websites and smartphone apps, chatbots
+can provide a very personalized experience owing to the conversational
+nature of interaction. One-to-one conversation settings provide ample
+opportunity to understand and adapt to a user's goals, preferences, and
+constraints.
+* **Low cost:** Chatbots are digital solutions and therefore provide customer
+support services at least ten times cheaper than humans doing the very same
+tasks.
+* **Consistency:** Chatbots can be consistent in services, which may be hard to
+achieve with human operators and may be very important in certain sectors.
+* **Quick response times:** Unlike human-based systems, the response time for
+chatbots is much quicker. Users no longer have to wait for their call to be
+picked up and during a conversation, the chatbot responses will be quicker
+than human responses, especially when human operators are tasked with
+more than one simultaneous chat (sometimes up to five). The ability of
+chatbots to handle simultaneous conversations also removes the bottleneck
+of limited customer support bandwidth and therefore helps businesses scale
+up.
+* **Scale up:** Chatbots can easily scale up to handle increasing and seasonal
+traffic, which is not easy to do when using a battery of live advisors.
+Holiday season may particularly drive up demand for customer support. At
+such times, chatbots can be used to handle low priority and easy tasks,
+thereby reducing the load on live advisors—and human assistance can be
+used judiciously to handle high-value conversations.
+
+
+# Basic building blocks
+Before we move on to build our bot, let's look at the basic building blocks:
+* Blocks
+* Cards
+* Buttons
+* Plugins
+* Attributes
+
+
+Image
+Video
+Quick replies
+Audio
+Gallery
+List
+Navigation
+Buttons
+
+# Conversational design
+
+Publishing on Facebook Messenger
+Making it public
+
+
+# Testing your chatbot
+
+
+By the end of this chapter, you will be able to:
+* Understand the basics of Dialogflow
+* Understand concepts such as intents, entities, and contexts
+* Create a Dialogflow agent
+* Integrate the Dialogflow agent to web chat and Facebook Messenger
+* Extend the agent's capabilities using webhooks
+
+
+# Understanding users' utterances
+
+# Context switching
+
+
+Conversations as Platform
+
